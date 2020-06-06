@@ -1,0 +1,23 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "name": "Moto G5",
+      "quality": 2,
+      "price": "Rs. 13000"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "name": "Racold Geyser",
+      "quality": 3,
+      "price":"Rs. 6000"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "name": "Dell inspiron",
+      "quality": 4,
+      "price":"Rs. 50000"
+    }
+]
